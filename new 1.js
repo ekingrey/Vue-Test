@@ -1,4 +1,4 @@
-<script src="https://https://github.com/ekingrey/Vue-Test"></script>
+<script src="https://ekingrey.github.io/Vue-Test/"></script>
 
 <div id="app">
   {{ message }}
